@@ -1,3 +1,16 @@
+This is a fork of [this repo](https://github.com/saulmm/RecyclerView-demo)
+
+# Why?
+Because I can not run the code from the original repository. I have try to adapt it to the news versions of SDK an Gradle.
+
+I have disable some features, you can see in [issues](https://github.com/iblancasa/RecyclerView-demo/issues)
+
+
+***
+***
+***
+***
+***
 
 With the preview version of [android L](http://developer.android.com/preview/reference.html), Google has introduced [two new widgets](https://developer.android.com/preview/material/ui-widgets.html):
 
